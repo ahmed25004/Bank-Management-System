@@ -1,0 +1,21 @@
+# CLion / JetBrains
+.idea/
+
+# CMake build directories
+cmake-build-*/
+build/
+out/
+
+# Compiled files
+*.exe
+*.o
+*.obj
+*.dll
+*.a
+
+# Private banking data
+BANK.txt
+
+# Temporary files
+*.log
+*.tmp
